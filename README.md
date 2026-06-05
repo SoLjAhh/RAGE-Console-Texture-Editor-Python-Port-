@@ -27,7 +27,7 @@ texture dictionaries: **view, export, replace, and repack** textures.
 | Platform | Extension | Container | Works where |
 |----------|-----------|-----------|-------------|
 | PC | `.ytd` | RSC7, Little-Endian, zlib | Anywhere |
-| PS3 | `.ctd` / `.xtd` | 7CSR, Big-Endian, zlib | Anywhere |
+| PS3 | `.ctd` | 7CSR, Big-Endian, zlib | Anywhere |
 | Xbox 360 | `.xtd` | 7CSR, Big-Endian, **LZX** | **32-bit Windows** (needs DLLs) |
 
 Platform is auto-detected from the magic bytes. The Platform tab only
