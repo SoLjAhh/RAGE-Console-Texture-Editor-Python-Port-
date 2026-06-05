@@ -13,6 +13,7 @@ texture dictionaries: **view, export, replace, and repack** textures.
    xcompress.dll
    xcompress_cpp.dll
    xcompress_open.dll
+   you will need to provide your own "encryption_key.bin" to open .rpf archives. uses the same keys as OpenIV and LibertyV.
    ```
 2. Run it:
    ```
