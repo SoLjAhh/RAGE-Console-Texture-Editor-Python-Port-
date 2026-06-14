@@ -25,7 +25,7 @@ formats** and a built-in **RPF archive browser**.
 | Platform   | Extension     | Magic  | Endian | Compression                  |
 |------------|---------------|--------|--------|------------------------------|
 | PC         | `.ytd`        | `RSC7` | Little | zlib (raw DEFLATE)           |
-| PS3        | `.ctd` / `.xtd` | `7CSR` | Big    | zlib                         |
+| PS3        | `.ctd`        | `7CSR` | Big    | zlib                         |
 | Xbox 360   | `.xtd`        | `7CSR` | Big    | LZX / XMem (via xcompress)   |
 
 Both **RSC7** (GTA V) and **RSC5** (GTA IV) resource versions are read.
